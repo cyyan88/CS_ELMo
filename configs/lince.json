@@ -1,0 +1,48 @@
+{
+    "experiment": "lince",
+    "description": "CS-ELMo with hierarchical attention and position embeddings",
+    "task": "lid",
+    "dataset": {
+        "train": "lince_small/train.txt",
+        "dev": "lince_small/dev.txt",
+        "test": "lince_small/test.txt"
+    },
+    "model": {
+        "name": "elmo",
+        "version": "original",
+        "elmo_requires_grad": true,
+        "embeddings": ["crawl", "twitter", "glove"],
+        "use_lstm": true,
+        "lstm_hidden_dim": 128,
+        "use_crf": true,
+        "charngrams": {
+            "ngram_order": 3,
+            "mechanism": "hi_attention",
+            "use_second_task": true,
+            "use_at_last_layer": true,
+            "use_position": true
+        },
+        "dropout": 0.5
+    },
+    "training": {
+        "epochs": 10,
+        "batch_size": 10,
+        "optimizer": {
+            "name": "adam",
+            "lr": 1e-2,
+            "weight_decay": 0.0,
+            "beta1": 0.9,
+            "beta2": 0.999
+        },
+        "lr_scheduler": {
+            "name": "plateau",
+            "factor": 0.3,
+            "patience": 5
+        },
+        "l2": 0,
+        "clip_grad": 0
+    },
+    "evaluation": {
+        "batch_size": 25
+    }
+}
