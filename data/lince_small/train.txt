@@ -1,0 +1,219 @@
+no	spa	ADV
+puede	spa	AUX
+ser	spa	VERB
+.	eng&spa	PUNCT
+
+I	eng	PRON
+love	eng	VERB
+New	eng	PROPN
+York	eng	PROPN
+and	eng	CONJ
+Vegas	eng&spa	PROPN
+.	eng&spa	PUNCT
+
+they	eng	PRON
+should	eng	AUX
+have	eng	VERB
+one	eng	NUM
+person	eng	NOUN
+at	eng	ADP
+the	eng	DET
+end	eng	NOUN
+of	eng	ADP
+the	eng	DET
+process	eng	NOUN
+once	eng	SCONJ
+everything	eng	PRON
+'s	eng	VERB
+approved	eng	VERB
+um	eng	INTJ
+doing	eng	VERB
+the	eng	DET
+formatting	eng	NOUN
+.	eng&spa	PUNCT
+
+because	eng	SCONJ
+you	eng	PRON
+'re	eng	AUX
+going	eng	VERB
+to	eng	PART
+spend	eng	VERB
+more	eng	ADJ
+money	eng	NOUN
+on	eng	ADP
+P_H_Qs	eng	PROPN
+giving	eng	VERB
+it	eng	PRON
+out	eng	ADV
+to	eng	ADP
+the	eng	DET
+people	eng	NOUN
+...	eng&spa	PUNCT
+
+we	eng	PRON
+have	eng	AUX
+to	eng	PART
+do	eng	VERB
+it	eng	PRON
+both	eng	DET
+at	eng	ADP
+the	eng	DET
+same	eng	ADJ
+time	eng	NOUN
+.	eng&spa	PUNCT
+
+sí	spa	INTJ
+.	eng&spa	PUNCT
+
+es	spa	VERB
+muy	spa	ADV
+muy	spa	ADV
+bella	spa	ADJ
+ella	spa	PRON
+.	eng&spa	PUNCT
+
+mmhm	eng	INTJ
+.	eng&spa	PUNCT
+
+wow	eng&spa	INTJ
+.	eng&spa	PUNCT
+
+it	eng	PRON
+'s	eng	VERB
+not	eng	PART
+like	eng	ADV
+being	eng	VERB
+here	eng	ADV
+.	eng&spa	PUNCT
+
+so	eng	SCONJ
+somebody	eng	PRON
+else	eng	ADJ
+wants	eng	VERB
+to	eng	PART
+order	eng	VERB
+?	eng&spa	PUNCT
+
+when	eng	SCONJ
+she	eng	PRON
+gets	eng	VERB
+thirty	eng	NUM
+and	eng	CONJ
+she	eng	PRON
+gets	eng	VERB
+that	eng	SCONJ
+young	eng	ADJ
+twenty	eng	NUM
+twenty	eng	NUM
+one	eng	NUM
+...	eng&spa	PUNCT
+
+yes	eng	INTJ
+!	eng&spa	PUNCT
+
+porque	spa	SCONJ
+tiene	spa	VERB
+todo	spa	DET
+el	spa	DET
+equipo	spa	NOUN
+.	eng&spa	PUNCT
+
+abre	spa	VERB
+!	eng&spa	PUNCT
+
+uhuh	eng	INTJ
+oh	eng	INTJ
+really	eng	ADV
+?	eng&spa	PUNCT
+
+for	eng	ADP
+us	eng	PRON
+not	eng	PART
+to	eng	PART
+make	eng	VERB
+her	eng	PRON
+feel	eng	VERB
+better	eng	ADJ
+she	eng	PRON
+brought	eng	VERB
+<unintelligible>	UNK	UNK
+.	eng&spa	PUNCT
+
+I	eng	PRON
+forgot	eng	VERB
+what	eng	PRON
+the	eng	DET
+instructions	eng	NOUN
+say	eng	VERB
+.	eng&spa	PUNCT
+
+yeah	eng	INTJ
+I	eng	PRON
+have	eng	VERB
+like	eng	ADV
+a	eng	DET
+little	eng	ADJ
+wine	eng	NOUN
+cellar	eng	NOUN
+.	eng&spa	PUNCT
+
+very	eng	ADV
+tacky	eng	ADJ
+.	eng&spa	PUNCT
+
+it	eng	PRON
+'s	eng	VERB
+super	eng	ADV
+cool	eng	ADJ
+...	eng&spa	PUNCT
+
+no	spa	INTJ
+yo	spa	PRON
+sé	spa	VERB
+lo	spa	DET
+que	spa	PRON
+me	spa	PRON
+vas	spa	AUX
+a	spa	ADP
+preguntar	spa	VERB
+no	spa	INTJ
+.	eng&spa	PUNCT
+
+I	eng	PRON
+...	eng&spa	PUNCT
+I	eng	PRON
+...	eng&spa	PUNCT
+I	eng	PRON
+'m	eng	VERB
+more	eng	ADJ
+for	eng	ADP
+making	eng	VERB
+through	eng	ADP
+all	eng	DET
+the	eng	DET
+text	eng	NOUN
+lines	eng	NOUN
+up	eng	ADP
+...	eng&spa	PUNCT
+to	eng	ADP
+the	eng	DET
+right	eng	ADJ
+...	eng&spa	PUNCT
+
+okey-dokey	eng	INTJ
+.	eng&spa	PUNCT
+
+sí	spa	INTJ
+sí	spa	INTJ
+.	eng&spa	PUNCT
+
+sabes	spa	VERB
+y	spa	CONJ
+eso	spa	PRON
+fue	spa	VERB
+.	eng&spa	PUNCT
+
+tú	spa	PRON
+sabes	spa	VERB
+.	eng&spa	PUNCT
+

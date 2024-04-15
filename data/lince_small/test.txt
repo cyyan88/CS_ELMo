@@ -1,0 +1,245 @@
+but	eng	CONJ
+did	eng	AUX
+you	eng	PRON
+tell	eng	VERB
+him	eng	PRON
+que	spa	SCONJ
+Craig	eng&spa	PROPN
+dijo	spa	VERB
+that	eng	SCONJ
+they	eng	PRON
+are	eng	VERB
+already	eng	ADV
+been	eng	AUX
+altered	eng	ADJ
+verdad	spa	INTJ
+?	eng&spa	PUNCT
+
+and	eng	CONJ
+she	eng	PRON
+'s	eng	VERB
+all	eng	DET
+set	eng	VERB
+up	eng	ADV
+.	eng&spa	PUNCT
+
+uhhuh	eng	INTJ
+yo	spa	PRON
+he	spa	AUX
+estado	spa	VERB
+ahí	spa	ADV
+sí	spa	INTJ
+.	eng&spa	PUNCT
+
+depende	spa	VERB
+si	spa	SCONJ
+puedo	spa	VERB
+.	eng&spa	PUNCT
+
+yeah	eng	INTJ
+Maria	eng&spa	PROPN
+is	eng	AUX
+working	eng	VERB
+tonight	eng	ADV
+.	eng&spa	PUNCT
+
+exacto	spa	ADJ
+.	eng&spa	PUNCT
+
+no	spa	INTJ
+.	eng&spa	PUNCT
+
+entonces	spa	SCONJ
+prefiero	spa	VERB
+mejor	spa	ADV
+...	eng&spa	PUNCT
+
+ah	eng&spa	INTJ
+cómo	spa	ADV
+no	spa	INTJ
+.	eng&spa	PUNCT
+
+you	eng	PRON
+know	eng	VERB
+.	eng&spa	PUNCT
+
+they	eng	PRON
+get	eng	VERB
+upset	eng	ADJ
+.	eng&spa	PUNCT
+
+you	eng	PRON
+know	eng	VERB
+then	eng	ADV
+when	eng	SCONJ
+the	eng	DET
+music	eng	NOUN
+stop	eng	VERB
+...	eng&spa	PUNCT
+
+Miramar	eng&spa	PROPN
+is	eng	VERB
+too	eng	ADV
+high	eng	ADJ
+.	eng&spa	PUNCT
+
+entonces	spa	ADV
+llega	spa	VERB
+él	spa	PRON
+y	spa	CONJ
+le	spa	PRON
+dice	spa	VERB
+"	eng&spa	PUNCT
+mira	spa	VERB
+yo	spa	PRON
+necesito	spa	VERB
+que	spa	SCONJ
+me	spa	PRON
+vea	spa	VERB
+ya	spa	ADV
+"	eng&spa	PUNCT
+
+<unintelligible>	UNK	UNK
+so	eng	SCONJ
+that	eng	SCONJ
+you	eng	PRON
+can	eng	AUX
+do	eng	VERB
+your	eng	DET
+bird	eng	NOUN
+watching	eng	VERB
+.	eng&spa	PUNCT
+
+oh	eng	INTJ
+but	eng	CONJ
+at	eng	ADP
+...	eng&spa	PUNCT
+at	eng	ADP
+the	eng	DET
+beginning	eng	NOUN
+right	eng	ADV
+when	eng	SCONJ
+you	eng	PRON
+started	eng	VERB
+playing	eng	VERB
+did	eng	VERB
+n't	eng	PART
+it	eng	PRON
+hurt	eng	VERB
+like	eng	ADP
+the	eng	DET
+vibrating	eng	NOUN
+...	eng&spa	PUNCT
+the	eng	DET
+...	eng&spa	PUNCT
+
+I	eng	PRON
+do	eng	AUX
+n't	eng	PART
+know	eng	VERB
+if	eng	SCONJ
+she	eng	PRON
+'s	eng	AUX
+ever	eng	ADV
+going	eng	VERB
+to	eng	PART
+find	eng	VERB
+out	eng	ADP
+.	eng&spa	PUNCT
+
+coge	spa	VERB
+más	spa	ADV
+because	eng	SCONJ
+there	eng	PRON
+'s	eng	VERB
+plenty	eng	NOUN
+.	eng&spa	PUNCT
+
+<unintelligible>	UNK	UNK
+and	eng	CONJ
+stuff	eng	NOUN
+like	eng	ADP
+that	eng	PRON
+.	eng&spa	PUNCT
+
+sobre	spa	ADP
+todo	spa	PRON
+porque	spa	SCONJ
+hacen	spa	VERB
+esa	spa	DET
+cosa	spa	NOUN
+que	spa	PRON
+es	spa	VERB
+de	spa	ADP
+...	eng&spa	PUNCT
+de	spa	ADP
+máscara	spa	NOUN
+.	eng&spa	PUNCT
+
+what	eng	PRON
+'s	eng	VERB
+your	eng	DET
+favourite	eng	ADJ
+plant	eng	NOUN
+?	eng&spa	PUNCT
+
+I	eng	PRON
+'m	eng	AUX
+going	eng	VERB
+to	eng	PART
+also	eng	ADV
+email	eng	VERB
+Majo	eng&spa	PROPN
+and	eng	CONJ
+Pam	eng&spa	PROPN
+their	eng	DET
+forms	eng	NOUN
+.	eng&spa	PUNCT
+
+yo	spa	PRON
+cuando	spa	SCONJ
+me	spa	PRON
+pongo	spa	VERB
+mi	spa	DET
+saco	spa	NOUN
+me	spa	PRON
+miro	spa	VERB
+bien	spa	ADV
+elegante	spa	ADJ
+.	eng&spa	PUNCT
+
+no	eng	INTJ
+.	eng&spa	PUNCT
+
+idiay	spa	INTJ
+ánda+	spa	VERB
++te	spa	PRON
+a+	spa	ADP
++el	spa	DET
+Dadeland	eng&spa	PROPN
+...	eng&spa	PUNCT
+Dadeland	eng&spa	PROPN
+no	spa	INTJ
+Dadeland	eng&spa	PROPN
+no	spa	ADV
+tiene	spa	VERB
+Aeros	eng&spa	PROPN
+.	eng&spa	PUNCT
+
+not	eng	ADV
+that	eng	ADV
+many	eng	ADJ
+.	eng&spa	PUNCT
+
+y	spa	CONJ
+ni	spa	CONJ
+bailando	spa	VERB
+...	eng&spa	PUNCT
+no	spa	ADV
+era	spa	AUX
+bailando	spa	VERB
+unos	spa	PRON
+con	spa	ADP
+otros	spa	PRON
+.	eng&spa	PUNCT
+

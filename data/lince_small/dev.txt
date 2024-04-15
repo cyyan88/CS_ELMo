@@ -1,0 +1,203 @@
+a	spa	ADP
+Itzhak	eng&spa	PROPN
+Perlman	eng&spa	PROPN
+.	eng&spa	PUNCT
+
+esto	spa	PRON
+es	spa	VERB
+una	spa	DET
+semana	spa	NOUN
+.	eng&spa	PUNCT
+
+her	eng	DET
+sis	eng	NOUN
+...	eng&spa	PUNCT
+her	eng	DET
+sister	eng	NOUN
+is	eng	AUX
+doing	eng	VERB
+a	eng	DET
+lot	eng	NOUN
+better	eng	ADJ
+.	eng&spa	PUNCT
+
+entonces	spa	ADV
+como	spa	ADV
+ves	spa	VERB
+este	spa	DET
+...	eng&spa	PUNCT
+este	spa	DET
+scenario	eng	NOUN
+.	eng&spa	PUNCT
+
+look	eng	VERB
+that	eng	PRON
+'s	eng	VERB
+a	eng	DET
+whale	eng	NOUN
+picture	eng	NOUN
+right	eng	ADV
+there	eng	ADV
+.	eng&spa	PUNCT
+
+y	spa	CONJ
+era	spa	VERB
+nada	spa	PRON
+más	spa	ADJ
+que	spa	SCONJ
+twenty	eng	NUM
+eight	eng	NUM
+thousand	eng	NUM
+building	eng	NOUN
+?	eng&spa	PUNCT
+
+oh	eng	INTJ
+my	eng	DET
+god	eng	NOUN
+.	eng&spa	PUNCT
+
+because	eng	SCONJ
+it	eng	PRON
+'s	eng	VERB
+not	eng	PART
+...	eng&spa	PUNCT
+it	eng	PRON
+'s	eng	VERB
+...	eng&spa	PUNCT
+to	eng	PART
+be	eng	VERB
+honest	eng	ADJ
+with	eng	ADP
+you	eng	PRON
+it	eng	PRON
+is	eng	VERB
+...	eng&spa	PUNCT
+it	eng	PRON
+'s	eng	VERB
+not	eng	PART
+about	eng	ADP
+the	eng	DET
+presents	eng	NOUN
+.	eng&spa	PUNCT
+
+Tom	eng&spa	PROPN
+...	eng&spa	PUNCT
+John	eng	PROPN
+says	eng	VERB
+uh	eng	INTJ
+i	eng	PRON
+candy	eng	NOUN
+.	eng&spa	PUNCT
+
+yeah	eng	INTJ
+.	eng&spa	PUNCT
+
+uno	spa	PRON
+toca	spa	VERB
+el	spa	DET
+bajo	spa	NOUN
+.	eng&spa	PUNCT
+
+no	spa	INTJ
+así	spa	ADV
+.	eng&spa	PUNCT
+
+how	eng	ADV
+do	eng	AUX
+you	eng	PRON
+want	eng	VERB
+me	eng	PRON
+to	eng	PART
+cut	eng	VERB
+it	eng	PRON
+?	eng&spa	PUNCT
+
+we	eng	PRON
+'ll	eng	AUX
+see	eng	VERB
+.	eng&spa	PUNCT
+
+con	spa	ADP
+quién	spa	PRON
+?	eng&spa	PUNCT
+
+hey	eng&spa	INTJ
+Tom	eng&spa	PROPN
+.	eng&spa	PUNCT
+
+I	eng	PRON
+did	eng	AUX
+n't	eng	PART
+know	eng	VERB
+Katrina	eng&spa	PROPN
+'s	eng	NOUN
+dad	eng	NOUN
+died	eng	VERB
+.	eng&spa	PUNCT
+
+it	eng	PRON
+is	eng	VERB
+half	eng	NOUN
+of	eng	ADP
+...	eng&spa	PUNCT
+
+a	spa	ADP
+ver	spa	VERB
+.	eng&spa	PUNCT
+
+I	eng	PRON
+think	eng	VERB
+you	eng	PRON
+told	eng	VERB
+me	eng	PRON
+that	eng	PRON
+.	eng&spa	PUNCT
+
+it	eng	PRON
+'s	eng	VERB
+so	eng	ADV
+natural	eng	ADJ
+.	eng&spa	PUNCT
+
+ya	spa	ADV
+me	spa	PRON
+tengo	spa	AUX
+que	spa	SCONJ
+despertar	spa	VERB
+maje	spa	NOUN
+estoy	spa	VERB
+<unintelligible>	UNK	UNK
+.	eng&spa	PUNCT
+
+sí	spa	INTJ
+?	eng&spa	PUNCT
+
+me	spa	PRON
+golpea	spa	VERB
+de	spa	ADP
+viaje	spa	NOUN
+.	eng&spa	PUNCT
+
+the	eng	DET
+leaves	eng	NOUN
+itself	eng	PRON
+.	eng&spa	PUNCT
+
+I	eng	PRON
+say	eng	VERB
+"	eng&spa	PUNCT
+is	eng	VERB
+that	eng	PRON
+necessary	eng	ADJ
+"	eng&spa	PUNCT
+
+so	eng	SCONJ
+it	eng	PRON
+'s	eng	VERB
+four	eng	NUM
+hundred	eng	NUM
+dollars	eng	NOUN
+a	eng	ADP
+month	eng	NOUN
+.	eng&spa	PUNCT
+
