@@ -2,3 +2,4 @@ seqeval
 allennlp
 scikit-learn
 flair
+overrides==2.6
