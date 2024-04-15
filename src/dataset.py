@@ -90,7 +90,7 @@ class CSDataset(Dataset):
 
     def save(self, filepath, predictions=None):
         os.makedirs(os.path.dirname(filepath), exist_ok=True)
-        with open(filepath, 'w+') as fp:
+        with open(filepath, 'w+', encoding="utf=8") as fp:
             for i in range(len(self.tokens)):
                 for j in range(len(self.tokens[i])):
                     line_template = "{}\t{}".format(self.tokens[i][j], self.langids[i][j])
@@ -101,7 +101,7 @@ class CSDataset(Dataset):
                     if predictions is not None:
                         line_template += '\t{}'.format(predictions[i][j])
 
-                    fp.write(line_template + '\n')
+                    fp.write(str(line_template) + '\n')
                 fp.write('\n')
 
     def change_scheme(self, scheme):
@@ -283,7 +283,7 @@ class RawDataset(Dataset):
 
 
 def read_lines(filepath):
-    lines = [line.strip() for line in open(filepath, 'r')] + ['']
+    lines = [line.strip() for line in open(filepath, 'r', encoding = 'cp850')] + ['']
     post = []
 
     for line in lines:
